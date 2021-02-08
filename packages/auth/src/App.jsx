@@ -5,7 +5,7 @@ import {
   createGenerateClassName,
 } from '@material-ui/core/styles';
 
-import SignIn from './components/SignIn';
+import SignIn from './components/Signin';
 import Signup from './components/Signup';
 
 const generateClassName = createGenerateClassName({
